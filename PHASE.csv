@@ -1,0 +1,6 @@
+﻿nom_phase;ordre_phase;duree_moyenne_jours;description
+Étude préliminaire;1;30;Analyse des besoins, étude de faisabilité, visite du site, relevés topographiques
+Conception et plans;2;60;Élaboration des plans architecturaux, plans techniques, plans de structure
+Demande de permis;3;45;Constitution et dépôt du dossier de permis de construire auprès de la mairie
+Suivi de construction;4;150;Supervision des travaux, contrôle qualité, coordination des corps de métier
+Réception et livraison;5;15;Réception des travaux, levée des réserves, remise des clés au client

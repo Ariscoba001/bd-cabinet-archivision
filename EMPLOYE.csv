@@ -1,0 +1,13 @@
+﻿matricule;nom_employe;prenom_employe;fonction;specialite;date_embauche;taux_horaire;telephone_employe;email_employe;actif
+EMP001;AKPAKI;Joachim;Architecte;Architecture résidentielle;15/03/2020;15000;2,2902E+12;j.akpaki@archivision.bj;Oui
+EMP002;HOUNKPATIN;Marie;Architecte;Architecture commerciale;10/01/2021;14000;2,2902E+12;m.hounkpatin@archivision.bj;Oui
+EMP003;SOSSOU;Didier;Ingénieur;Génie civil;20/06/2020;12000;22997345678;d.sossou@archivision.bj;Oui
+EMP004;AGBOKPANZO;Yvette;Ingénieur;Structure;01/09/2021;11500;2,2902E+12;y.agbokpanzo@archivision.bj;Oui
+EMP005;TOKPA;Rodrigue;Chef de projet;Coordination de projets;15/11/2019;18000;2,2902E+12;r.tokpa@archivision.bj;Oui
+EMP006;KOUCHADÉ;Bernice;Dessinateur;Plans techniques;10/02/2022;8000;2,2902E+12;b.kouchade@archivision.bj;Oui
+EMP007;GBEDJI;Armand;Dessinateur;Plans architecturaux;15/03/2022;7500;2,2902E+12;a.gbedji@archivision.bj;Oui
+EMP008;DANSOU;Clarisse;Technicien;Relevés topographiques;20/05/2021;9000;2,2902E+12;c.dansou@archivision.bj;Oui
+EMP009;HOUETO;Pascal;Architecte;Architecture publique;10/08/2020;13500;2,2902E+12;p.houeto@archivision.bj;Oui
+EMP010;ZOUNON;Fabienne;Ingénieur;Réseaux et fluides;15/01/2022;11000;2,2902E+12;f.zounon@archivision.bj;Oui
+EMP011;ASSOGBA;Gérard;Chef de projet;Grands projets;01/04/2019;19000;2,2902E+12;g.assogba@archivision.bj;Oui
+EMP012;KODJO;Sylviane;Technicien;Métrés et devis;20/11/2021;8500;2,2902E+12;s.kodjo@archivision.bj;Oui

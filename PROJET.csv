@@ -1,0 +1,31 @@
+﻿code_projet;nom_projet;type_projet;adresse_projet;quartier_projet;ville_projet;surface_totale;budget_previsionnel;budget_reel;date_debut;date_fin_prevue;date_fin_reelle;statut;description;id_client
+AV-2024-001;Villa Moderne Akpakpa;Résidentiel;Lot 125 Rue 3.890;Akpakpa;Cotonou;250;45000000;46500000;2024-02-01;2024-08-30;2024-09-15;Terminé;Construction d'une villa moderne de standing;1
+AV-2024-002;Extension Bureaux MOOV;Commercial;Boulevard de la Marina;Centre;Cotonou;800;125000000;118000000;2024-01-15;2024-10-15;2024-09-28;Terminé;Extension de l'immeuble de bureaux;3
+AV-2024-003;Résidence Cadjehoun;Résidentiel;Villa 78 Avenue Steinmetz;Cadjehoun;Cotonou;180;32000000;35200000;2024-03-01;2024-09-30;;En cours;Maison familiale avec jardin;2
+AV-2024-004;Marché Municipal Akpakpa;Public;Carrefour Akpakpa Dodomey;Akpakpa;Cotonou;1500;280000000;295000000;2024-02-15;2025-02-15;;En cours;Réhabilitation du marché municipal;5
+AV-2024-005;Villa Standing Cocotiers;Résidentiel;Villa 234 Boulevard Lagunaire;Cocotiers;Cotonou;320;58000000;54000000;2024-04-01;2024-11-30;2024-11-15;Terminé;Villa haut standing avec piscine;6
+AV-2024-006;Entrepôt SOBEMAP;Industriel;Zone Industrielle PK14;Godomey;Abomey-Calavi;2000;150000000;148000000;2024-03-10;2024-10-10;2024-10-05;Terminé;Nouvel entrepôt de stockage;7
+AV-2024-007;Duplex Fidjrossè;Résidentiel;Parcelle 456 Rue 1.234;Fidjrossè;Cotonou;280;48000000;51000000;2024-05-01;2025-01-15;;En cours;Duplex contemporain;4
+AV-2024-008;Rénovation Hôtel Golden Tulip;Commercial;Route de l'Aéroport;Cadjehoun;Cotonou;1200;185000000;178000000;2024-04-15;2024-12-31;2024-12-20;Terminé;Rénovation complète de l'hôtel;9
+AV-2024-009;Maison Familiale Vossa;Résidentiel;Lot 89 Rue 2.567;Vossa;Cotonou;200;36000000;38500000;2024-06-01;2025-02-28;;En cours;Maison familiale moderne;8
+AV-2024-010;Amphithéâtre UAC;Public;Campus Universitaire;Abomey-Calavi;Abomey-Calavi;800;95000000;92000000;2024-03-20;2024-11-30;2024-11-25;Terminé;Amphithéâtre 500 places;11
+AV-2024-016;Immeuble R+3 Akpakpa;Commercial;Carrefour Aviation;Akpakpa;Cotonou;950;165000000;172000000;2024-05-15;2025-03-15;;En cours;Immeuble de bureaux;1
+AV-2024-017;Maison Traditionnelle Moderne;Résidentiel;Parcelle 789 Rue 5.432;Zogbo;Cotonou;210;38000000;39500000;2024-07-01;2025-02-28;;En cours;Style afro-moderne;2
+AV-2024-020;Usine Transformation Alimentaire;Industriel;Zone Industrielle;Godomey;Abomey-Calavi;2500;280000000;;2024-10-01;2025-06-30;;En cours;Usine agroalimentaire;7
+AV-2024-022;Réhabilitation Siège SOBEMAP;Industriel;Zone Industrielle PK14;Godomey;Abomey-Calavi;600;85000000;83000000;2024-08-01;2024-12-31;2024-12-15;Terminé;Rénovation siège social;7
+AV-2024-024;Extension Restaurant Golden Tulip;Commercial;Route de l'Aéroport;Cadjehoun;Cotonou;300;45000000;47000000;2024-11-01;2025-04-30;;En cours;Agrandissement restaurant;9
+AV-2025-011;Villa Contemporaine Haie Vive;Résidentiel;Parcelle 567 Carré 123;Haie Vive;Cotonou;240;42000000;;2025-01-10;2025-08-31;;En cours;Villa contemporaine;10
+AV-2025-012;Showroom CFAO;Commercial;Boulevard Lagunaire;Akpakpa;Cotonou;600;78000000;;2025-02-01;2025-09-30;;En cours;Showroom automobile;13
+AV-2025-013;Résidence Cocotiers Phase 2;Résidentiel;Villa 45 Rue des Cocotiers;Cocotiers;Cotonou;190;35000000;;2025-03-01;2025-10-15;;En cours;Extension résidence;12
+AV-2025-014;École Primaire Agla;Public;Lot 890 Rue 4.123;Agla;Cotonou;1200;180000000;;2025-01-15;2025-12-31;;En cours;École 12 classes;15
+AV-2025-019;Complexe Sportif Municipal;Public;Boulevard des Armées;Jéricho;Cotonou;3000;450000000;;2025-02-15;2026-02-15;;En cours;Stade et gymnase;5
+AV-2025-023;Bibliothèque Universitaire;Public;Campus UAC;Abomey-Calavi;Abomey-Calavi;1000;145000000;;2025-03-15;2025-12-31;;En cours;Bibliothèque moderne;11
+AV-2025-025;Maison Écologique Vossa;Résidentiel;Lot 567 Rue 6.789;Vossa;Cotonou;220;48000000;;2025-06-01;2026-02-28;;En cours;Maison écologique;8
+AV-2025-026;Centre de Santé Akpakpa;Public;Carrefour Akpakpa Centre;Akpakpa;Cotonou;800;125000000;;2025-04-01;2026-01-31;;En cours;Centre de santé;15
+AV-2025-027;Garage CFAO Phase 2;Commercial;Boulevard Lagunaire;Akpakpa;Cotonou;400;55000000;;2025-07-01;2026-03-31;;En cours;Garage automobile;13
+AV-2025-028;Résidence Agla Moderne;Résidentiel;Carré 456 Agla;Agla;Cotonou;260;46000000;48500000;2025-05-01;2025-11-30;;En cours;Résidence standing;14
+AV-2025-030;Villa Architecte Fidjrossè;Résidentiel;Route des Pêches;Fidjrossè Plage;Cotonou;280;52000000;;2025-08-15;2026-04-30;;En cours;Villa d'architecte;4
+AV-2025-031;Centre Commercial Cadjehoun;Commercial;Route de l'Aéroport;Cadjehoun;Cotonou;1800;320000000;;2025-09-01;2026-09-01;;En cours;Centre commercial;3
+AV-2026-032;Villa Premium Zogbo;Résidentiel;Carré 345 Rue des Palmiers;Zogbo;Cotonou;350;68000000;;2026-01-08;2026-08-31;;En cours;Villa premium avec piscine;16
+AV-2026-033;Bureaux Préfecture;Public;Avenue Clozel;Centre;Cotonou;600;95000000;;2026-01-15;2026-10-15;;En cours;Nouveaux bureaux administratifs;19
+AV-2026-034;Siège BÉNIN CONTROL;Commercial;Boulevard de France;Haie Vive;Cotonou;750;125000000;;2026-01-20;2026-11-30;;En cours;Siège social moderne;20
